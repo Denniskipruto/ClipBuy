@@ -803,7 +803,7 @@ const feedData = {
   ],
   sneakers: [
     {
-      video: '7884046-uhd_4096_2160_25fps.mp4',
+      video: '16094597-hd_1080_1920_24fps.mp4',
       title: 'Nike Air Max 270',
       tags: ['Comfort', 'Air Unit', 'Streetwear'],
       seller: {
